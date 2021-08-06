@@ -195,4 +195,3 @@ btn.place(x=300,y=50)
 btn2.place(x=150,y=50)
 print(xn)
 root.mainloop()
-
